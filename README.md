@@ -14,6 +14,11 @@ mindmap
       Java
       C++
     Tools
-      
+      GitHub
+      Scrum
+      Git
+      Ticketsystem
+    Dokumentation
+      LaTex
 ```
    
