@@ -13,7 +13,6 @@ mindmap
       Java
       Python
       C++
-      
     Tools
 
 ```
