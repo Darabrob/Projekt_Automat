@@ -2,7 +2,7 @@
 Repository Projekt ITEC
 ```mermaid
 mindmap
-  root((Projekt Automat))
+  root((Automat))
     Typen
       1. Süßigkeiten-Automat
       2. Tetris-Battle-Automat
