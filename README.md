@@ -10,7 +10,7 @@ mindmap
       Servo-Motoren
     Software
       Touchscreen-App
-      Java Python C++
+      Java/Python/C++
       
     Tools
 
