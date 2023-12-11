@@ -10,7 +10,6 @@ mindmap
       Servo-Motoren
     Software
       TouchscreenApp
-      Java
-      Python
+      
 ```
    
