@@ -4,6 +4,9 @@ Repository Projekt ITEC
 mindmap
   root((Automat))
     Hardware
+      RaspberryPi
+      Touchscreen
+      Münzzähler
     Software
     Tools
 
