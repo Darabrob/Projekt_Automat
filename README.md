@@ -7,7 +7,11 @@ mindmap
       RaspberryPi
       Touchscreen
       Münzzähler
+      Servo-Motoren
     Software
+      Touchscreen-App
+      Java/ Python/ C++
+      
     Tools
 
 ```
