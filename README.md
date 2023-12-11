@@ -9,7 +9,7 @@ mindmap
       Münzzähler
       Servo-Motoren
     Software
-      Touchscreen-App
+      TouchscreenApp
       Java
       Python
 ```
