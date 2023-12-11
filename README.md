@@ -6,8 +6,7 @@ mindmap
     Hardware
       RaspberryPi
       Touchscreen
-      Münzzähler
-      Servo-Motoren
+      ServoMotoren
     Software
     Tools
       
