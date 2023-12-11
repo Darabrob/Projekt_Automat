@@ -12,8 +12,5 @@ mindmap
       Touchscreen-App
       Java
       Python
-      
-    
-
 ```
    
