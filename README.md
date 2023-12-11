@@ -23,7 +23,6 @@ mindmap
       2.GitHub
       3.App zur Steuerung
       4.Touchscreen
-      5.
     Anderes
       1.Git
       2.Scrum
