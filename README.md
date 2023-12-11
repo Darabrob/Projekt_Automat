@@ -9,6 +9,10 @@ mindmap
       Münzzähler
       ServoMotoren
     Software
+      Python
+      PyGame
+      Java
+      C++
     Tools
       
 ```
