@@ -12,7 +12,7 @@ mindmap
       Touchscreen-App
       Java
       Python
-      C++
+      
     
 
 ```
