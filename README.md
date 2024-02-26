@@ -33,7 +33,7 @@ Repository Automat Projekt (Praktische Informatik eGK Q2)
    
       * Netzteil          -> 230V -> 12V
 
-##Ablauf
+## Ablauf
 * Startup
 * Starte GUI
 * Startmenü
