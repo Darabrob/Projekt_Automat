@@ -1,5 +1,5 @@
 # Projekt_Automat
-Repository Projekt ITEC
+Repository Automat Projekt (Praktische Informatik eGK Q2)
 
 
 ## Teams:
