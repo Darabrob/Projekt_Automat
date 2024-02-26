@@ -3,11 +3,11 @@ Repository Projekt ITEC
 
 
 ## Teams:
-* GUI+Hardwaresteuerung: Adrian, Ömer, Flo
+* GUI & Hardwaresteuerung: Adrian, Ömer, Flo
 * Spieleentwicklung: Colin, Attila, (Adrian)
-* Caseenwicklung: Levin, Yousif
+* 3D-Druck (Case, usw.): Levin, Yousif
 * Elektronik: Jamal, Valentin
-* Dokumentation und Koordination: Niels, Flo, Valentin, (Adrian)
+* Dokumentation & Koordination: Niels, Flo, Valentin, (Adrian)
 
 ## Anforderungen:
 * Snacks lagern
