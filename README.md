@@ -7,7 +7,7 @@ Repository Projekt ITEC
 * Spieleentwicklung: Colin, Attila, (Adrian)
 * Caseenwicklung: Levin, Yousif
 * Elektronik: Jamal, Valentin
-* Dokumentation und Koordination: Niels, Flo 
+* Dokumentation und Koordination: Niels, Flo, Valentin
 
 
 ```mermaid
