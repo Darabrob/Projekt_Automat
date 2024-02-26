@@ -3,7 +3,7 @@ Repository Projekt ITEC
 
 
 ## Teams:
-* GUI+ Hardwaresteuerung: Adrian, Ömer, Flo
+* GUI+Hardwaresteuerung: Adrian, Ömer, Flo
 * Spieleentwicklung: Colin, Attila, (Adrian)
 * Caseenwicklung: Levin, Yousif
 * Elektronik: Jamal, Valentin
