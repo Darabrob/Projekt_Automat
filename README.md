@@ -1,8 +1,3 @@
-# *WICHTIG:* Github enthält ein tool namens projekte/projects, mit dem mann das projekt verwalten könnte (to do listen, team capacity etc...). Es wäre das praktischste wenn wir dies zur organisation benutzen würden, dafür muss ein admin das aber erstellen. 
-lg Valentin Lingelbach
-
-
-
 # Projekt_Automat
 Repository Automat Projekt (Praktische Informatik eGK Q2)
 
